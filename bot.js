@@ -1,5 +1,5 @@
 const Eris = require("eris");
-var bot = new Eris("");
+var bot = newEris("");
 var id = "521951742795972610";
 //** لاتعدل على شي تحت ذا **//
 bot.on("ready", () => {
